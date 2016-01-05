@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Who we are
-datePublished: '2016-01-05T15:38:27.860Z'
-dateModified: '2016-01-05T15:38:05.471Z'
+datePublished: '2016-01-05T15:48:31.407Z'
+dateModified: '2016-01-05T15:48:23.545Z'
 title: Thrust Intro
 author: []
 authors: []
