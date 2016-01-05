@@ -22,7 +22,7 @@ color:
     - '#999999'
     - '#cecece'
   brandStrength: 1
-  lightness: 0.8297565649263561
-  saturation: 0.07372233760543168
-  rhythmicContrast: 0.22939120954833925
+  lightness: 0.6875
+  saturation: 0.25
+  rhythmicContrast: 0.5
 purpose: []
